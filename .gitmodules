@@ -1,0 +1,6 @@
+[submodule "SWGGHarv"]
+	path = SWGGHarv
+	url = git@github.com:spkansas/SWGGHarv.git
+[submodule "Core3"]
+	path = Core3
+	url = git@github.com:spkansas/SWGCore3.git

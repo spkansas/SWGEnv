@@ -2,6 +2,6 @@
 
 cd ./Core3
 git fetch upstream
-git checkout unstable
+git checkout origin/unstable
 git merge upstream/unstable
 cd ..
